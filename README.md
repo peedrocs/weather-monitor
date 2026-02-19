@@ -52,10 +52,10 @@ docker compose up --build
 
 ## Estrutura do projeto
 
-weather-monitor/
-│
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-├── .env (não versionado)
-└── app/
+weather-monitor/<br>
+│<br>
+├── Dockerfile<br>
+├── docker-compose.yml<br>
+├── requirements.txt<br>
+├── .env (não versionado)<br>
+└── app/<br>
