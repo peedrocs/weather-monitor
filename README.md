@@ -27,17 +27,7 @@ A aplicação identifica a localização via IP, obtém latitude e longitude aut
 - Docker Compose
 
 
-
-## Executando o Projeto com Docker
-
-### 1. Clonar o repositório
-
-```bash
-git clone https://github.com/seuusuario/weather-monitor.git
-cd weather-monitor
-```
-
-### 2. Criar o arquivo .env
+### Criar o arquivo .env
 
 DB_HOST=db
 DB_NAME=weather
@@ -45,10 +35,6 @@ DB_USER=postgres
 DB_PASSWORD=postgres
 DB_PORT=5432
 
-
-### 3. Subir os containers
-
-docker compose up --build
 
 ## Estrutura do projeto
 
