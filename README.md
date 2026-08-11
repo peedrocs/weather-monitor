@@ -2,7 +2,7 @@
 
 Projeto em Python que consulta informações meteorológicas com base na localização do usuário.
 
-A aplicação identifica a localização via IP, obtém latitude e longitude automaticamente e utiliza uma API de clima que não exige API Key para retornar os dados meteorológicos da região.
+A aplicação identifica a localização via IP, obtém latitude e longitude automaticamente e utiliza uma API de clima para retornar os dados meteorológicos da região.
 
 
 
@@ -43,5 +43,4 @@ weather-monitor/<br>
 ├── Dockerfile<br>
 ├── docker-compose.yml<br>
 ├── requirements.txt<br>
-├── .env (não versionado)<br>
 └── app/<br>
